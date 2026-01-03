@@ -14,6 +14,8 @@ We install a centralized automation hub that works in the background 24/7. It ha
 
 ## 🚀 The "Big 4" Revenue Drivers
 We focus on the four areas that have the highest impact on your bottom line.
+![Partnership Benefits](cornerstonesolutioncorevalues.png)
+
 
 ### 1. Instant Response (Missed Call Text-Back)
 * **The Problem:** If you don't answer a call, that customer immediately calls your competitor.
